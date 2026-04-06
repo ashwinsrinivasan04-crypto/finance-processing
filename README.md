@@ -60,6 +60,3 @@ Financial organizations face a critical challenge: how to provide secure, role-a
    ```
 
 6. Open your web browser and navigate to **http://127.0.0.1:8000/docs** to interact with the API via the automatic Swagger documentation.
-
-# Architechture
-![alt text](image.png)
